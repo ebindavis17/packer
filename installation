@@ -1,0 +1,5 @@
+~ cd packer
+~ wget <url> from 'https://www.packer.io/downloads.html'
+~ unzip 
+~ export PATH=$PATH:/packer
+~ packer --version
